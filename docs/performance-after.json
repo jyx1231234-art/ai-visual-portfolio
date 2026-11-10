@@ -1,0 +1,58 @@
+{
+  "homeJs": [
+    {
+      "url": "/_next/static/chunks/09cl2ncvh7-ty.js",
+      "bytes": 5584,
+      "gzipBytes": 2023
+    },
+    {
+      "url": "/_next/static/chunks/0cz1d0mv5g_q7.js",
+      "bytes": 112594,
+      "gzipBytes": 39373
+    },
+    {
+      "url": "/_next/static/chunks/0mcz08nxo_o05.js",
+      "bytes": 26928,
+      "gzipBytes": 7869
+    },
+    {
+      "url": "/_next/static/chunks/1-4_2lh1h8lbg.js",
+      "bytes": 70162,
+      "gzipBytes": 26984
+    },
+    {
+      "url": "/_next/static/chunks/16_m64v01f7v8.js",
+      "bytes": 34122,
+      "gzipBytes": 8688
+    },
+    {
+      "url": "/_next/static/chunks/2nz23uvqtg6nx.js",
+      "bytes": 16958,
+      "gzipBytes": 6457
+    },
+    {
+      "url": "/_next/static/chunks/3ewttt6o0dto0.js",
+      "bytes": 59762,
+      "gzipBytes": 24148
+    },
+    {
+      "url": "/_next/static/chunks/3unhdjep2ncem.js",
+      "bytes": 229597,
+      "gzipBytes": 71710
+    },
+    {
+      "url": "/_next/static/chunks/43_vp02h5fzpt.js",
+      "bytes": 163058,
+      "gzipBytes": 44974
+    },
+    {
+      "url": "/_next/static/chunks/turbopack-3-ry682tkyiqk.js",
+      "bytes": 10030,
+      "gzipBytes": 3946
+    }
+  ],
+  "homeJsBytes": 728795,
+  "homeJsGzipBytes": 236172,
+  "htmlBytes": 59174,
+  "fontPreloads": 1
+}
